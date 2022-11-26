@@ -1,0 +1,42 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "JOINS",
+            "connectString": "postgres://votjrchd:YimVr-DIwIrQAGDjdbaedEJr3kD6xfd3@peanut.db.elephantsql.com/votjrchd"
+        },
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "CAR",
+            "connectString": "postgres://eqbnvzdy:q_YffOoaf09fOdHqESHZj43kaxjesn5f@peanut.db.elephantsql.com/eqbnvzdy"
+        }
+    ]
+}
